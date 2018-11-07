@@ -1,0 +1,3 @@
+#cs notes
+
+python intro 
