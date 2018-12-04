@@ -3,3 +3,8 @@
 [cs-notes-OOP](cs-notes/python-object.md)
 [startup-notes](startup-notes/launching-product.md)
 [tech-notes](technotes/first-note.md)
+[backend-web-1-notes](backend-web/BEW-1.md)
+[swift-notes](swift-notes/swift-enum-notes.md)
+
+
+
