@@ -2,22 +2,24 @@
 
 What is a class ?
 
- class is a blue print that provides structure for how an object should be defined, but it doesn’t actually provide any real content itself. 
+ A class is a blue print that provides structure for how an object should be defines but doesn’t provide any real content itself.
 
- # Remember that it is best practice for a class name to begin with a capital letter ```Animal``` not ```animal```
 
- ### This is example on how to define a class in python
+
+ *** Remember that it is best practice for a class name to begin with a capital letter *** ```Animal``` not ```animal```
+
+ *** This is example on how to define a class in python ***
 
  ``` class Animal:```
 
  # What is an object 
 
- an object is an instance of a class that can contain 
- properties and methods
+ an object is an instance of a class 
 
-you can think of an object as a copy of a class but with actual values assigned to it 
+you can think of a class as a blue print for a house and an object as the actual house
 
-### here is an example on  how to create a new object
+
+### here is an example on  how to create a new object in python
 
 ``` new_animal = Animal()```
 
@@ -27,7 +29,7 @@ before you can use a property you must Initialize it
 
 Initialize your properties will allow you to pass values to you object later on when you create a new object. 
 
-### here is an example on  how to Initialize your properties 
+### here is an example on  how to Initialize your an object instance &properties 
 
 ``` def __init__(self, name, age): self.name = name self.age = age```
 
@@ -47,7 +49,16 @@ for your properties
 
  ## What are methods? 
 
- Methods are functions that for objects they can accept input perform some process and give an output as well as accept parameters.
+ A method defines the behavior of a class 
+
+ you could also think of as a function for objects
+
+ ## Polymorphism: 
+
+A method that can have many uses 
+
+
+
 
  ### Here is an example of a method
 
