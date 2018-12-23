@@ -7,5 +7,6 @@
 [swift-notes](swift-notes/swift-enum-notes.md)
 [testing-tips](backend-web/testing-tips.md)
 [git-cheatsheet](backend-web/git-cheatsheet.md)
+[resources](resources/resource.md)
 
 
