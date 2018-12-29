@@ -25,4 +25,9 @@ you also want to specify what version of node you are using  ``` "engines": {
   3. run `$ git push heroku master`
 
 
+## Setting up ApiKey with Heroku
+
+``` heroku config:set API_KEY_NAME="string" ```
+
+
 
