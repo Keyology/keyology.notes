@@ -27,7 +27,12 @@ you also want to specify what version of node you are using  ``` "engines": {
 
 ## Setting up ApiKey with Heroku
 
-``` heroku config:set API_KEY_NAME="string" ```
+``` $heroku config:set API_KEY_NAME="string" ```
+
+## change Git repo heroku
+
+``` $git remote set-url heroku https://git.heroku.com/keyology.git
+ ```
 
 
 
