@@ -9,5 +9,5 @@
 [git-cheatsheet](backend-web/git-cheatsheet.md)
 [resources](resources/resource.md)
 [FrontEnd](frontend/react-tips.md)
-
+[bigO-notation](cs-notes/big-o.md)
 
